@@ -18,6 +18,10 @@ Browser → Web (Next.js :3000) → API (Express :3001) → PostgreSQL
 
 The app is a simple task manager (to-do list) that demonstrates how the three tiers communicate.
 
+## This is a live demo don't embarrass me
+
+This application is running as a live demonstration environment. Please be respectful and avoid any actions that could disrupt the service or create inappropriate content. Thank you for helping keep this demo professional and functional for everyone.
+
 ## Running locally with Docker Compose
 
 ### Prerequisites
